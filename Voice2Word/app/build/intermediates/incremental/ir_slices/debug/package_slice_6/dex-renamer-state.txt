@@ -1,0 +1,4 @@
+#Sun May 10 00:26:50 GMT+08:00 2020
+base.0=E\:\\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

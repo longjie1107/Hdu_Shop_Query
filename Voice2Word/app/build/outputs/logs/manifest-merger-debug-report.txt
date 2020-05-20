@@ -1,0 +1,240 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\991251b5b03b7dac33a100d26d1c0c8c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\59160a97e83628fef3850ec56fbd39ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\072d2b9d8018299d289aabbdbcac4071\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f41377495bb5ac8522af90c2baf76281\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4f6d71f58136d230e27e47d7c8f5acff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\50de9a015bbf5948a1ab684e047e5f08\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d42e6a586cbb0698e6b2c566f77c0036\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2dbdf4cf9bde8ec809c3775c1d66aa51\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bddf5c960233de4db663fb35e57ecae2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\9e52896fa5c1941100e68aa396b5a15e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\456337a935e542de6d592728f6640103\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\951db4830a1e53cb0534256db327a535\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\99df85f79a5c575675cded6effad7dcd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7d9a3cebe08a2efe8bf48dedd80824c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e2d687df8afba98cc27133fbd471c854\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4fa789ad5b687a41148d0f9d700b8b2d\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\9ceb6e1ac3a96aa2725466446bd50af9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\676250b08cf6fbf9af249257de2d546c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2dc7d20702a582d76a3e1da50d080378\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\661217e0d5ef5c5f8bb58e9629c46f88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0fdf150671c4d307cf23f59bad3fead1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6c2b99e029544680ede7f79b5132946e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\133174cdffec79ea38fa06394bc74872\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b00487d7e4b24f43cf1a3a1a430ad0bf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\460f96911828e9bdcce5cfd6a9d99935\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0c7fea30a8a87c2b0d06d435ba8bc4f4\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:1:1-44:12
+	package
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+MERGED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:10:5-80
+MERGED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-80
+MERGED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:11:5-81
+MERGED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
+MERGED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:13:22-73
+application
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:15:5-42:19
+MERGED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-30:19
+MERGED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-30:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e2d687df8afba98cc27133fbd471c854\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e2d687df8afba98cc27133fbd471c854\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4fa789ad5b687a41148d0f9d700b8b2d\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4fa789ad5b687a41148d0f9d700b8b2d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e2d687df8afba98cc27133fbd471c854\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:19:9-40
+uses-library#org.apache.http.legacy
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:22:9-24:40
+	android:required
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:23:13-50
+activity#com.baidu.tts.sample.MainActivity
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:26:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.baidu.tts.sample.SynthActivity
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:33:9-35:51
+	android:label
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:35:13-48
+	android:name
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:34:13-62
+activity#com.baidu.tts.sample.MiniActivity
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:36:9-38:37
+	android:label
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:38:13-34
+	android:name
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:37:13-61
+activity#com.baidu.tts.sample.SaveFileActivity
+ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:39:9-41:40
+	android:label
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml:40:13-65
+uses-sdk
+INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+MERGED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\991251b5b03b7dac33a100d26d1c0c8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\991251b5b03b7dac33a100d26d1c0c8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\59160a97e83628fef3850ec56fbd39ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\59160a97e83628fef3850ec56fbd39ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\072d2b9d8018299d289aabbdbcac4071\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\072d2b9d8018299d289aabbdbcac4071\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f41377495bb5ac8522af90c2baf76281\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f41377495bb5ac8522af90c2baf76281\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4f6d71f58136d230e27e47d7c8f5acff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4f6d71f58136d230e27e47d7c8f5acff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\50de9a015bbf5948a1ab684e047e5f08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\50de9a015bbf5948a1ab684e047e5f08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d42e6a586cbb0698e6b2c566f77c0036\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d42e6a586cbb0698e6b2c566f77c0036\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2dbdf4cf9bde8ec809c3775c1d66aa51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2dbdf4cf9bde8ec809c3775c1d66aa51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bddf5c960233de4db663fb35e57ecae2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bddf5c960233de4db663fb35e57ecae2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\9e52896fa5c1941100e68aa396b5a15e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\9e52896fa5c1941100e68aa396b5a15e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\456337a935e542de6d592728f6640103\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\456337a935e542de6d592728f6640103\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\951db4830a1e53cb0534256db327a535\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\951db4830a1e53cb0534256db327a535\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\99df85f79a5c575675cded6effad7dcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\99df85f79a5c575675cded6effad7dcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7d9a3cebe08a2efe8bf48dedd80824c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7d9a3cebe08a2efe8bf48dedd80824c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e2d687df8afba98cc27133fbd471c854\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e2d687df8afba98cc27133fbd471c854\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4fa789ad5b687a41148d0f9d700b8b2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4fa789ad5b687a41148d0f9d700b8b2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\9ceb6e1ac3a96aa2725466446bd50af9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\9ceb6e1ac3a96aa2725466446bd50af9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\676250b08cf6fbf9af249257de2d546c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\676250b08cf6fbf9af249257de2d546c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2dc7d20702a582d76a3e1da50d080378\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2dc7d20702a582d76a3e1da50d080378\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\661217e0d5ef5c5f8bb58e9629c46f88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\661217e0d5ef5c5f8bb58e9629c46f88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0fdf150671c4d307cf23f59bad3fead1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0fdf150671c4d307cf23f59bad3fead1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6c2b99e029544680ede7f79b5132946e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6c2b99e029544680ede7f79b5132946e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\133174cdffec79ea38fa06394bc74872\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\133174cdffec79ea38fa06394bc74872\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b00487d7e4b24f43cf1a3a1a430ad0bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b00487d7e4b24f43cf1a3a1a430ad0bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\460f96911828e9bdcce5cfd6a9d99935\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\460f96911828e9bdcce5cfd6a9d99935\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0c7fea30a8a87c2b0d06d435ba8bc4f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0c7fea30a8a87c2b0d06d435ba8bc4f4\AndroidManifest.xml:20:5-44
+INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+		ADDED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-71
+meta-data#com.baidu.speech.APP_ID
+ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-23:40
+	android:value
+		ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-51
+meta-data#com.baidu.speech.API_KEY
+ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-26:56
+	android:value
+		ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-53
+	android:name
+		ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-52
+meta-data#com.baidu.speech.SECRET_KEY
+ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-29:64
+	android:value
+		ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [:core] E:\baidu_speech_Baidu_TTS_Android_2.6.1.109.20200424_be04a21_online_1.1.2\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-55
